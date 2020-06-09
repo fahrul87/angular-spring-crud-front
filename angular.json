@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-spring-crud"
+    }
+  },
+  "defaultProject": "angular-spring-crud",
+  "cli": {
+    "analytics": "e2acf080-f42f-42d7-9c62-d4a204c57ab3"
+  }
 }
