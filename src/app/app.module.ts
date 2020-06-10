@@ -7,13 +7,15 @@ import { RegistrationComponent } from './registration/registration.component';
 import { SeacrhDeleteComponent } from './seacrh-delete/seacrh-delete.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { HomeComponent } from './home/home.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     RegistrationComponent,
-    SeacrhDeleteComponent
+    SeacrhDeleteComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
